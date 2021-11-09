@@ -1,0 +1,73 @@
+%nprocshared=64
+%mem=60GB
+%chk=pII_MP2-jun-cc-pVQZ.chk
+#p MP2/jun-cc-pvqz
+
+SP
+
+0 1
+ C(PDBName=CA,ResName=GLY,ResNum=1_A)              
+ H(PDBName=HA,ResName=GLY,ResNum=1_A)                  1            B1
+ H(PDBName=HB3,ResName=GLY,ResNum=1_A)                 1            B2    2            A1
+ C(PDBName=C,ResName=GLY,ResNum=1_A)                   1            B3    3            A2    2            D1    0
+ O(PDBName=O,ResName=GLY,ResNum=1_A)                   4            B4    1            A3    3            D2    0
+ N(PDBName=N,ResName=GLY,ResNum=2_A)                   4            B5    1            A4    5            D3    0
+ H(PDBName=H,ResName=GLY,ResNum=2_A)                   6            B6    4            A5    1            D4    0
+ C(PDBName=CA,ResName=GLY,ResNum=2_A)                  6            B7    4            A6    1            D5    0
+ H(PDBName=HA,ResName=GLY,ResNum=2_A)                  8            B8    6            A7    4            D6    0
+ H(PDBName=HB3,ResName=GLY,ResNum=2_A)                 8            B9    6            A8    4            D7    0
+ C(PDBName=C,ResName=GLY,ResNum=2_A)                   8           B10    6            A9    4            D8    0
+ O(PDBName=O,ResName=GLY,ResNum=2_A)                  11           B11    8           A10    6            D9    0
+ O                                                    11           B12    8           A11    6           D10    0
+ H                                                    13           B13   11           A12    8           D11    0
+ N                                                     1           B14    4           A13    5           D12    0
+ H                                                    15           B15    1           A14    4           D13    0
+ H                                                    15           B16    1           A15    4           D14    0
+
+   B1             1.09488931
+   B2             1.09310576
+   B3             1.52756755
+   B4             1.22384508
+   B5             1.35612404
+   B6             1.00832724
+   B7             1.43801636
+   B8             1.09358653
+   B9             1.09376132
+   B10            1.50496287
+   B11            1.20823338
+   B12            1.34358213
+   B13            0.96855302
+   B14            1.44901507
+   B15            1.01473138
+   B16            1.01377756
+   A1           106.49995918
+   A2           109.59998617
+   A3           122.62486549
+   A4           115.27152907
+   A5           121.82120742
+   A6           121.00853942
+   A7           111.65027160
+   A8           111.70185133
+   A9           109.15481289
+   A10          124.99377992
+   A11          111.33481520
+   A12          106.92386148
+   A13          114.62983856
+   A14          108.61035506
+   A15          109.46781964
+   D1           115.53776918
+   D2           139.77536454
+   D3           178.43966960
+   D4             2.14154729
+   D5          -176.63673655
+   D6           -60.26967100
+   D7            58.66140379
+   D8           179.22500935
+   D9            -0.11223596
+   D10          179.89231861
+   D11          179.97445301
+   D12           16.12171092
+   D13          -48.13089303
+   D14           66.15674133
+
+
