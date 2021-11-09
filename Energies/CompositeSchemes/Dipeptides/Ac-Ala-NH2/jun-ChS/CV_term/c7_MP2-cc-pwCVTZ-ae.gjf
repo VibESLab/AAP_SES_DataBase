@@ -1,0 +1,84 @@
+%nprocshared=28
+%mem=120GB
+%chk=c7_MP2-cc-pwCVTZ-ae.chk
+#p MP2=full/gen
+
+sp
+
+0 1
+ C(PDBName=C,ResName=ALA,ResNum=1_A)               
+ O(PDBName=O,ResName=ALA,ResNum=1_A)                   1            B1
+ N(PDBName=N,ResName=ALA,ResNum=2_A)                   1            B2    2            A1
+ H(PDBName=H,ResName=ALA,ResNum=2_A)                   3            B3    1            A2    2            D1    0
+ C(PDBName=CA,ResName=ALA,ResNum=2_A)                  3            B4    1            A3    2            D2    0
+ H(PDBName=HA,ResName=ALA,ResNum=2_A)                  5            B5    3            A4    1            D3    0
+ C(PDBName=CB,ResName=ALA,ResNum=2_A)                  5            B6    3            A5    1            D4    0
+ H(PDBName=HB1,ResName=ALA,ResNum=2_A)                 7            B7    5            A6    3            D5    0
+ H(PDBName=HB2,ResName=ALA,ResNum=2_A)                 7            B8    5            A7    3            D6    0
+ H(PDBName=HB3,ResName=ALA,ResNum=2_A)                 7            B9    5            A8    3            D7    0
+ C(PDBName=C,ResName=ALA,ResNum=2_A)                   5           B10    3            A9    1            D8    0
+ O(PDBName=O,ResName=ALA,ResNum=2_A)                  11           B11    5           A10    3            D9    0
+ N(PDBName=N,ResName=ALA,ResNum=3_A)                  11           B12    5           A11    3           D10    0
+ H(PDBName=H,ResName=ALA,ResNum=3_A)                  13           B13   11           A12    5           D11    0
+ H                                                    13           B14   11           A13    5           D12    0
+ C                                                     1           B15    2           A14    3           D13    0
+ H                                                    16           B16    1           A15    2           D14    0
+ H                                                    16           B17    1           A16    2           D15    0
+ H                                                    16           B18    1           A17    2           D16    0
+
+   B1             1.22625042
+   B2             1.35643155
+   B3             1.00909683
+   B4             1.44219461
+   B5             1.09450424
+   B6             1.53187754
+   B7             1.08940236
+   B8             1.09156104
+   B9             1.09183797
+   B10            1.52438738
+   B11            1.22243302
+   B12            1.35537984
+   B13            1.00336667
+   B14            1.00541538
+   B15            1.51056536
+   B16            1.09010801
+   B17            1.08993214
+   B18            1.09029246
+   A1           122.04347717
+   A2           122.10718717
+   A3           121.31374982
+   A4           108.42784155
+   A5           111.77126748
+   A6           108.73687398
+   A7           110.00013609
+   A8           111.30561473
+   A9           107.19008305
+   A10          122.12151389
+   A11          115.06744158
+   A12          121.81299938
+   A13          118.64273551
+   A14          122.21676820
+   A15          108.52191246
+   A16          113.12635530
+   A17          108.53272609
+   D1          -174.59518170
+   D2            -2.83533869
+   D3           -40.63054154
+   D4            79.41254839
+   D5           -57.66487147
+   D6            62.04048455
+   D7          -177.42160288
+   D8          -159.08082018
+   D9           -15.73654198
+   D10          166.13266001
+   D11           -6.18967333
+   D12          179.08517811
+   D13          179.60424572
+   D14           57.19096736
+   D15          178.88914682
+   D16          -59.60109715
+
+@/home/shuchong/Basis_sets/cc-pwcvtz.0.gbs
+
+
+
