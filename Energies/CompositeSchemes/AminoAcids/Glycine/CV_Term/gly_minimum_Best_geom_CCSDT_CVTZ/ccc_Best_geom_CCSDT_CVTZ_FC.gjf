@@ -1,0 +1,48 @@
+%chk=ccc_Best_geom_CCSDT_CVTZ_FC.chk
+%nprocshared=12
+%mem=100GB
+#P CCSD(T)=FC gen 
+
+start best geom PCCP paper
+
+0 1
+N
+H 1 B1
+C 1 B2 2 A1
+C 3 B3 1 A2 2 D1
+H 3 B4 1 A3 4 D2
+H 3 B5 1 A4 4 D3
+O 4 B6 3 A5 1 D4
+O 4 B7 3 A6 1 D5
+H 1 B8 3 A7 4 D6
+H 8 B9 4 A8 3 D7 
+
+B1	=	1.0091
+B2	=	1.4609
+A1	=	112.0646
+B3	=	1.5252
+A2	=	111.6045
+D1	=	101.3936
+B4	=	1.0891
+A3	=	110.2343
+D2	=	117.8521
+B5	=	1.0890
+A4	=	113.9016
+D3	=	-121.6454
+B6	=	1.2001
+A5	=	122.6125
+D4	=	-171.9300
+B7	=	1.3356
+A6	=	114.3853
+D5	=	8.8971
+B8	=	1.0080
+A7	=	112.2608
+D6	=	-136.9715
+B9	=	0.9760
+A8	=	105.7699
+D7	=	-1.3866
+
+@/public/home/users/shu004/Basis_sets/cc-pCVTZ.gbs
+
+
+
