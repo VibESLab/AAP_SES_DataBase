@@ -6,6 +6,6 @@ Structural, energetic, and spectroscopic properties for amino acids and polypept
 
 
 ### Citations:
-Structural and Energetic Properties of Amino Acids and Peptides Benchmarked by Accurate Theoretical and Experimental Data, Ping Wang, Chong Shu, Hexu Ye, and Malgorzata Biczysko*, The Journal of Physical Chemistry A, 2021 DOI: [10.1021/acs.jpca.1c06504](https://pubs.acs.org/doi/10.1021/acs.jpca.1c06504)
+Ping Wang, Chong Shu, Hexu Ye, and Malgorzata Biczysko*, Structural and Energetic Properties of Amino Acids and Peptides Benchmarked by Accurate Theoretical and Experimental Data, The Journal of Physical Chemistry A, 2021 DOI: [10.1021/acs.jpca.1c06504](https://pubs.acs.org/doi/10.1021/acs.jpca.1c06504)
 
 
